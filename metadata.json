@@ -1,0 +1,6 @@
+{
+  "name": "2026 미래교육 통합 아카이브 포털",
+  "description": "2026학년도 5대 주요 교육 사업(AI·디지털 선도학교, STEAM 클럽, 사회정서학습, 독서·토론 프로젝트, 교원학습공동체)의 교육자료와 구글 드라이브 통합 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
